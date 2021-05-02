@@ -1,0 +1,19 @@
+{
+    "name": "k1vehr1fie/portfolio",
+    "description": "This is simple portfolio app for artists.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kaveh Rafie",
+            "email": "kavehrafie@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "K1vehr1fie\\Portfolio\\": "src/"
+        }
+    },
+    "require": {}
+}
